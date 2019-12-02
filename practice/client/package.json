@@ -1,7 +1,6 @@
 {
   "name": "class-32-starter-code-practice-client",
   "version": "1.0.0",
-  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -31,5 +30,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
